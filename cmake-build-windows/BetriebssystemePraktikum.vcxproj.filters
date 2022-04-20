@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\finnj\CLionProjects\BetriebssystemePraktikum\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\finnj\CLionProjects\BetriebssystemePraktikum\keyValueStorage.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\finnj\CLionProjects\BetriebssystemePraktikum\subRoutines.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\finnj\CLionProjects\BetriebssystemePraktikum\keyValueStorage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\finnj\CLionProjects\BetriebssystemePraktikum\main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\finnj\CLionProjects\BetriebssystemePraktikum\subRoutines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\finnj\CLionProjects\BetriebssystemePraktikum\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BFDF6A22-C5ED-376D-9B97-F3144E6F56FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{63A6C6A1-B935-3A23-887B-0DFC688F4411}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

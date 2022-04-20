@@ -1,0 +1,3 @@
+C:/Users/finnj/CLionProjects/BetriebssystemePraktikum/cmake-build-windows/CMakeFiles/BetriebssystemePraktikum.dir
+C:/Users/finnj/CLionProjects/BetriebssystemePraktikum/cmake-build-windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/finnj/CLionProjects/BetriebssystemePraktikum/cmake-build-windows/CMakeFiles/ZERO_CHECK.dir

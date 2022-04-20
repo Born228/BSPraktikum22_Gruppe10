@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/PrakBS21/keyValueStorage.c
+keyValueStorage.h
+/tmp/PrakBS21/keyValueStorage.h
+
+/tmp/PrakBS21/keyValueStorage.h
+
+/tmp/PrakBS21/main.c
+main.h
+/tmp/PrakBS21/main.h
+stdio.h
+-
+string.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+
+/tmp/PrakBS21/main.h
+
+/tmp/PrakBS21/subRoutines.c
+subRoutines.h
+/tmp/PrakBS21/subRoutines.h
+
+/tmp/PrakBS21/subRoutines.h
+

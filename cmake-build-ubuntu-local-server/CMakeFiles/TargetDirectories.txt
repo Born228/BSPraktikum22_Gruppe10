@@ -1,0 +1,3 @@
+/tmp/tmp.rbxD2Lhx6e/cmake-build-ubuntu-local-server/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.rbxD2Lhx6e/cmake-build-ubuntu-local-server/CMakeFiles/BetriebssystemePraktikum.dir
+/tmp/tmp.rbxD2Lhx6e/cmake-build-ubuntu-local-server/CMakeFiles/edit_cache.dir
