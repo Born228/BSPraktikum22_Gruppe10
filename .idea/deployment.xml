@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Docker (c462d104-3d37-47cd-8376-513ed8b1d3b0)" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="Docker (c462d104-3d37-47cd-8376-513ed8b1d3b0)">
+      <paths name="Remote Host (1) (36ca204a-4900-441e-815c-27fc5f1e4cd0)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/tmp.rbxD2Lhx6e" local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
-          <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-ubuntu-local-server" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-windows" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-ubuntu-local-server" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-ubuntu" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-windows" />
-          </excludedPaths>
         </serverdata>
       </paths>
-      <paths name="Windows">
+      <paths name="Remote Host (a2cda8bd-52e6-4808-9879-535bb6edb730)">
         <serverdata>
           <mappings>
-            <mapping deploy="\" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/tmp/PrakBS22" local="$PROJECT_DIR$" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote-host" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote-host" />
+          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>

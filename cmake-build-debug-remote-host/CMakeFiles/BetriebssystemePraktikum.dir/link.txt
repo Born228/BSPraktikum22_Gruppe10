@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/BetriebssystemePraktikum.dir/main.c.o CMakeFiles/BetriebssystemePraktikum.dir/keyValueStorage.c.o CMakeFiles/BetriebssystemePraktikum.dir/subRoutines.c.o  -o BetriebssystemePraktikum 
